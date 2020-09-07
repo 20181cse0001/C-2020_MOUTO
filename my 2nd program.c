@@ -3,6 +3,6 @@
 void main()
 {
   printf("testing");
-printf(" word");
+printf("hello ");
 getch();
 }
